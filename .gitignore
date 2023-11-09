@@ -9,3 +9,4 @@ venv/
 *logs
 *.png
 *.thumbnail
+*eric_test
