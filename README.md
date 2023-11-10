@@ -1,11 +1,11 @@
-# PyTest Assert Exception Example
+# PyTest tmp_path and tmp_path_factory Example
 
-This repo contains the sample code for the article - [How To Test Python Exception Handling Using Pytest Assert (A Simple Guide)](https://pytest-with-eric.com/introduction/pytest-assert-exception/)
+This repo contains the sample code for the article - [How To Manage Temporary Files with Pytest tmp_path](https://pytest-with-eric.com/pytest-best-practices/pytest-tmp-path/)
 
-This project explains How to assert Python Exceptions in Pytest.
+This project explains how to manage temporary files using `tmp_path` and `tmp_path_factory` fixtures in Pytest.
 
 # Requirements
-* Python (3.11.3)
+* Python (3.11+)
 
 Please install the dependencies via the `requirements.txt` file using 
 ```commandline
